@@ -1,0 +1,15 @@
+# Java compiled output
+bin/
+*.class
+
+# VS Code logs
+.vscode/*.log
+
+# Eclipse metadata
+.classpath
+.project
+.settings/
+
+# Operating system files
+.DS_Store
+Thumbs.db
